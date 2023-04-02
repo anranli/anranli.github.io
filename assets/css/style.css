@@ -498,7 +498,7 @@ section {
 }
 
 #rainierscholarscareerexpo:hover::before {
-  content: "Nailing Your Technical Interview, Rainier Scholars Career Expo 2021";
+  content: "Nailing Your Technical Interview @ Rainier Scholars Career Expo 2021";
   text-align: center;
   color: white;
   background: #000;
@@ -522,6 +522,66 @@ section {
 }
 
 #twitchwomenintech {
+  vertical-align: middle;
+  height: 100%;
+  padding: 20px;
+}
+
+#riotwomenintech:hover::before {
+  content: "My Journey Through Tech @ Riot Tech Talks";
+  text-align: center;
+  color: white;
+  background: #000;
+  opacity: 0.75;
+  padding: 40px;
+}
+
+#riotwomenintech {
+  vertical-align: middle;
+  height: 100%;
+  padding: 20px;
+}
+
+#discoverjobsingames:hover::before {
+  content: "Discover Jobs in Games @ IGDA Foundation";
+  text-align: center;
+  color: white;
+  background: #000;
+  opacity: 0.75;
+  padding: 40px;
+}
+
+#discoverjobsingames {
+  vertical-align: middle;
+  height: 100%;
+  padding: 20px;
+}
+
+#engineeringingames:hover::before {
+  content: "Engineering in the Games Industry @ UC Berkeley";
+  text-align: center;
+  color: white;
+  background: #000;
+  opacity: 0.75;
+  padding: 40px;
+}
+
+#engineeringingames {
+  vertical-align: middle;
+  height: 100%;
+  padding: 20px;
+}
+
+#lahacks:hover::before {
+  content: "Judge @ LA Hacks 2023";
+  text-align: center;
+  color: white;
+  background: #000;
+  opacity: 0.75;
+  padding: 40px;
+}
+
+#lahacks {
   vertical-align: middle;
   height: 100%;
   padding: 20px;
